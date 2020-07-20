@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\bin\Debug\ConverterFunction.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\bin\Debug\ConverterFunction.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\bin\Debug\ConverterFunction.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\ConverterFunction.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\ConverterFunction.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\ConverterFunction.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\ConverterFunction.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ConverterFunction\obj\x86\Debug\ConverterFunction.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.pdb
+C:\Users\Mike\Desktop\Projects\4-Learning the language\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.exe
+C:\Users\Mike\Desktop\Projects\4-Learning the language\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.xml
+C:\Users\Mike\Desktop\Projects\4-Learning the language\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\bin\Debug\ConverterFunction.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\bin\Debug\ConverterFunction.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\bin\Debug\ConverterFunction.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ConverterFunction\ConverterFunction\obj\x86\Debug\ConverterFunction.pdb

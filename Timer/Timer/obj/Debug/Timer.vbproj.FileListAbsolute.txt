@@ -1,0 +1,12 @@
+D:\диск Д\VBA тренировки\Timer\Timer\bin\Debug\Timer.exe.config
+D:\диск Д\VBA тренировки\Timer\Timer\bin\Debug\Timer.exe
+D:\диск Д\VBA тренировки\Timer\Timer\bin\Debug\Timer.pdb
+D:\диск Д\VBA тренировки\Timer\Timer\bin\Debug\Timer.xml
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.vbprojAssemblyReference.cache
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.Resources.resources
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.cache
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.vbproj.CoreCompileInputs.cache
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.exe
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.xml
+D:\диск Д\VBA тренировки\Timer\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,34 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\bin\Debug\Compute.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\bin\Debug\Compute.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\bin\Debug\Compute.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\Compute.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\Compute.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\Compute.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\Compute.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Compute\obj\x86\Debug\Compute.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\Compute\Compute\obj\x86\Debug\Compute.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\Compute\Compute\obj\x86\Debug\Compute.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\Compute\Compute\obj\x86\Debug\Compute.pdb
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\Compute.exe
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\Compute.xml
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\Compute.pdb
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\bin\Debug\Compute.exe
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\bin\Debug\Compute.pdb
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\bin\Debug\Compute.xml
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\Compute.Form1.resources
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\Compute.Resources.resources
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Projects\2-Setting properties\Compute\Compute\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\bin\Debug\Compute.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\bin\Debug\Compute.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\bin\Debug\Compute.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\obj\x86\Debug\Compute.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\obj\x86\Debug\Compute.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\obj\x86\Debug\Compute.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\obj\x86\Debug\Compute.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\obj\x86\Debug\Compute.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\Compute\Compute\obj\x86\Debug\Compute.pdb

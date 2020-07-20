@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\bin\Debug\CharacterCounter.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\bin\Debug\CharacterCounter.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\bin\Debug\CharacterCounter.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\CharacterCounter.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\CharacterCounter.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\CharacterCounter.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\CharacterCounter.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CharacterCounter\obj\x86\Debug\CharacterCounter.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.pdb
+C:\Users\Mike\Desktop\Projects\3-Using controls\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.exe
+C:\Users\Mike\Desktop\Projects\3-Using controls\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.xml
+C:\Users\Mike\Desktop\Projects\3-Using controls\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\bin\Debug\CharacterCounter.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\bin\Debug\CharacterCounter.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\bin\Debug\CharacterCounter.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\CharacterCounter\CharacterCounter\obj\x86\Debug\CharacterCounter.pdb

@@ -1,0 +1,35 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\bin\Debug\KeyboardNavigation.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\bin\Debug\KeyboardNavigation.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\bin\Debug\KeyboardNavigation.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\bin\Debug\KeyboardNavigation.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\bin\Debug\KeyboardNavigation.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\bin\Debug\KeyboardNavigation.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.Form1.resources
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.Resources.resources
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\documents\visual studio 2010\Projects\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Projects\3-Using controls\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.exe
+C:\Users\Mike\Desktop\Projects\3-Using controls\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.xml
+C:\Users\Mike\Desktop\Projects\3-Using controls\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\bin\Debug\KeyboardNavigation.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\bin\Debug\KeyboardNavigation.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\bin\Debug\KeyboardNavigation.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.vbprojResolveAssemblyReference.cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\KeyboardNavigation\KeyboardNavigation\obj\x86\Debug\KeyboardNavigation.pdb

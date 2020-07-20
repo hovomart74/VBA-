@@ -1,0 +1,23 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\bin\Debug\SoundPlayer.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\bin\Debug\SoundPlayer.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\bin\Debug\SoundPlayer.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\obj\Debug\SoundPlayer.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\obj\Debug\SoundPlayer.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\obj\Debug\SoundPlayer.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\obj\Debug\SoundPlayer.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\obj\Debug\SoundPlayer.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SoundPlayer\obj\Debug\SoundPlayer.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.vbproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.pdb

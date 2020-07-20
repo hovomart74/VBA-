@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+C:\Users\Mike\Desktop\Projects\4-Learning the language\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\Mike\Desktop\Projects\4-Learning the language\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.xml
+C:\Users\Mike\Desktop\Projects\4-Learning the language\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb

@@ -1,0 +1,16 @@
+D:\диск Д\VBA тренировки\лотто\лотто\bin\Debug\лотто.exe.config
+D:\диск Д\VBA тренировки\лотто\лотто\bin\Debug\лотто.exe
+D:\диск Д\VBA тренировки\лотто\лотто\bin\Debug\лотто.pdb
+D:\диск Д\VBA тренировки\лотто\лотто\bin\Debug\лотто.xml
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.vbprojAssemblyReference.cache
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.Form1.resources
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.Resources.resources
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.vbproj.GenerateResource.cache
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.vbproj.CoreCompileInputs.cache
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.exe
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.xml
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.pdb
+D:\диск Д\VBA тренировки\лотто\лотто\bin\Debug\лотто.exe.manifest
+D:\диск Д\VBA тренировки\лотто\лотто\bin\Debug\лотто.application
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.exe.manifest
+D:\диск Д\VBA тренировки\лотто\лотто\obj\Debug\лотто.application

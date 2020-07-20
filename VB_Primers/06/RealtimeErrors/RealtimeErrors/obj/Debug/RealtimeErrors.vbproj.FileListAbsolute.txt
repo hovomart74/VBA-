@@ -1,0 +1,16 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\bin\Debug\RealtimeErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\bin\Debug\RealtimeErrors.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\bin\Debug\RealtimeErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\obj\Debug\RealtimeErrors.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\obj\Debug\RealtimeErrors.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\obj\Debug\RealtimeErrors.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\obj\Debug\RealtimeErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\obj\Debug\RealtimeErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\RealtimeErrors\obj\Debug\RealtimeErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RealtimeErrors\RealtimeErrors\obj\Debug\RealtimeErrors.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RealtimeErrors\RealtimeErrors\obj\Debug\RealtimeErrors.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RealtimeErrors\RealtimeErrors\obj\Debug\RealtimeErrors.pdb
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RealtimeErrors\RealtimeErrors\obj\Debug\RealtimeErrors.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RealtimeErrors\RealtimeErrors\obj\Debug\RealtimeErrors.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RealtimeErrors\RealtimeErrors\obj\Debug\RealtimeErrors.pdb

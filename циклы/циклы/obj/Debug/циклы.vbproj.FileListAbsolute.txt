@@ -1,0 +1,12 @@
+D:\диск Д\VBA тренировки\циклы\циклы\bin\Debug\циклы.exe.config
+D:\диск Д\VBA тренировки\циклы\циклы\bin\Debug\циклы.exe
+D:\диск Д\VBA тренировки\циклы\циклы\bin\Debug\циклы.pdb
+D:\диск Д\VBA тренировки\циклы\циклы\bin\Debug\циклы.xml
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.vbprojAssemblyReference.cache
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.Form1.resources
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.Resources.resources
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.vbproj.GenerateResource.cache
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.vbproj.CoreCompileInputs.cache
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.exe
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.xml
+D:\диск Д\VBA тренировки\циклы\циклы\obj\Debug\циклы.pdb

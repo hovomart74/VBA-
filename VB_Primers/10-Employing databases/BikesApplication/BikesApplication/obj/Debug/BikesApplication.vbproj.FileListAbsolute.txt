@@ -1,0 +1,39 @@
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\bin\Debug\BikesDatabase.mdf
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\bin\Debug\BikesDatabase_log.ldf
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\bin\Debug\BikesApplication.exe.config
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\bin\Debug\BikesApplication.exe
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\bin\Debug\BikesApplication.pdb
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\bin\Debug\BikesApplication.xml
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\obj\Debug\BikesApplication.vbprojResolveAssemblyReference.cache
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\obj\Debug\BikesApplication.Resources.resources
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\obj\Debug\BikesApplication.vbproj.GenerateResource.Cache
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\obj\Debug\BikesApplication.exe
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\obj\Debug\BikesApplication.xml
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\obj\Debug\BikesApplication.pdb
+C:\Users\mike_\documents\visual studio 2015\Projects\BikesApplication\BikesApplication\obj\Debug\BikesApplication.Form1.resources
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.exe.config
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.exe
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.xml
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.pdb
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesDatabase.mdf
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesDatabase_log.ldf
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.exe
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.pdb
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.xml
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.vbprojResolveAssemblyReference.cache
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.Form1.resources
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.Resources.resources
+C:\Users\mike_\Desktop\Projects4ed\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesDatabase.mdf
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesDatabase_log.ldf
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.exe.config
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\bin\Debug\BikesApplication.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.vbprojResolveAssemblyReference.cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\10-Employing databases\BikesApplication\BikesApplication\obj\Debug\BikesApplication.pdb

@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\bin\Debug\SubMethod.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\bin\Debug\SubMethod.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\bin\Debug\SubMethod.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\SubMethod.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\SubMethod.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\SubMethod.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\SubMethod.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SubMethod\obj\x86\Debug\SubMethod.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\SubMethod\SubMethod\obj\x86\Debug\SubMethod.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\SubMethod\SubMethod\obj\x86\Debug\SubMethod.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\SubMethod\SubMethod\obj\x86\Debug\SubMethod.pdb
+C:\Users\Mike\Desktop\Projects\4-Learning the language\SubMethod\SubMethod\obj\x86\Debug\SubMethod.exe
+C:\Users\Mike\Desktop\Projects\4-Learning the language\SubMethod\SubMethod\obj\x86\Debug\SubMethod.xml
+C:\Users\Mike\Desktop\Projects\4-Learning the language\SubMethod\SubMethod\obj\x86\Debug\SubMethod.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\bin\Debug\SubMethod.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\bin\Debug\SubMethod.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\bin\Debug\SubMethod.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\obj\x86\Debug\SubMethod.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\obj\x86\Debug\SubMethod.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\obj\x86\Debug\SubMethod.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\obj\x86\Debug\SubMethod.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\obj\x86\Debug\SubMethod.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\SubMethod\SubMethod\obj\x86\Debug\SubMethod.pdb

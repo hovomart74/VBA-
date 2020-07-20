@@ -1,0 +1,33 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\obj\Debug\CompileErrors.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\obj\Debug\CompileErrors.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\obj\Debug\CompileErrors.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\bin\Debug\CompileErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\bin\Debug\CompileErrors.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\bin\Debug\CompileErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\obj\Debug\CompileErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\obj\Debug\CompileErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CompileErrors\obj\Debug\CompileErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\bin\Debug\CompileErrors.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\bin\Debug\CompileErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\bin\Debug\CompileErrors.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CompileErrors\CompileErrors\obj\Debug\CompileErrors.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\bin\Debug\CompileErrors.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\bin\Debug\CompileErrors.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\bin\Debug\CompileErrors.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\obj\Debug\CompileErrors.vbprojResolveAssemblyReference.cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\obj\Debug\CompileErrors.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\obj\Debug\CompileErrors.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\obj\Debug\CompileErrors.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\obj\Debug\CompileErrors.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\obj\Debug\CompileErrors.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\CompileErrors\CompileErrors\obj\Debug\CompileErrors.pdb

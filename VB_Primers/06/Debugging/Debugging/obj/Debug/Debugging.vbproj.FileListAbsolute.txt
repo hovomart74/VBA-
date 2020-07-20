@@ -1,0 +1,23 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\bin\Debug\Debugging.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\bin\Debug\Debugging.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\obj\Debug\Debugging.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\obj\Debug\Debugging.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\obj\Debug\Debugging.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\obj\Debug\Debugging.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\obj\Debug\Debugging.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Debugging\obj\Debug\Debugging.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\Debugging\Debugging\obj\Debug\Debugging.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\Debugging\Debugging\obj\Debug\Debugging.pdb
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\Debugging\Debugging\obj\Debug\Debugging.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\Debugging\Debugging\obj\Debug\Debugging.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\bin\Debug\Debugging.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\bin\Debug\Debugging.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\bin\Debug\Debugging.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\obj\Debug\Debugging.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\obj\Debug\Debugging.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\obj\Debug\Debugging.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\obj\Debug\Debugging.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\obj\Debug\Debugging.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Debugging\Debugging\obj\Debug\Debugging.pdb

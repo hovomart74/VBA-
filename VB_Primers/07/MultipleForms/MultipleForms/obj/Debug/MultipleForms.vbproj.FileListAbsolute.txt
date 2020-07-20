@@ -1,0 +1,44 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\bin\Debug\MultipleForms.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\bin\Debug\MultipleForms.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\bin\Debug\MultipleForms.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\MultipleForms.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\MultipleForms.Form2.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\MultipleForms.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\MultipleForms.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\MultipleForms.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\MultipleForms.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\MultipleForms\obj\Debug\MultipleForms.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\bin\Debug\MultipleForms.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\bin\Debug\MultipleForms.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\bin\Debug\MultipleForms.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Form2.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.vbproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\bin\Debug\MultipleForms.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\bin\Debug\MultipleForms.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\bin\Debug\MultipleForms.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Form1.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Form2.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Resources.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\MultipleForms\MultipleForms\obj\Debug\GenerateResource.write.1.tlog
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\bin\Debug\MultipleForms.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\bin\Debug\MultipleForms.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\bin\Debug\MultipleForms.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Form2.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\obj\Debug\MultipleForms.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\obj\Debug\MultipleForms.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\obj\Debug\MultipleForms.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\obj\Debug\MultipleForms.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultipleForms\MultipleForms\obj\Debug\MultipleForms.pdb

@@ -1,0 +1,11 @@
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\bin\Release\Jotter.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\bin\Release\Jotter.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\bin\Release\Jotter.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.AboutBox1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.SplashScreen1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Release\Jotter.pdb

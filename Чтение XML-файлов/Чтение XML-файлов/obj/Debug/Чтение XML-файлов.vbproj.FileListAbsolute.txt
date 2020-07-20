@@ -1,0 +1,12 @@
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\bin\Debug\Чтение XML-файлов.exe.config
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\bin\Debug\Чтение XML-файлов.exe
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\bin\Debug\Чтение XML-файлов.pdb
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\bin\Debug\Чтение XML-файлов.xml
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение_XML_файлов.Form1.resources
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение_XML_файлов.Resources.resources
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение XML-файлов.vbproj.GenerateResource.cache
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение XML-файлов.vbproj.CoreCompileInputs.cache
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение XML-файлов.exe
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение XML-файлов.xml
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение XML-файлов.pdb
+D:\диск Д\VBA тренировки\Чтение XML-файлов\Чтение XML-файлов\obj\Debug\Чтение XML-файлов.vbprojAssemblyReference.cache

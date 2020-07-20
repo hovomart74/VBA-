@@ -1,0 +1,12 @@
+D:\диск Д\VBA тренировки\StreamText\StreamText\bin\Debug\StreamText.exe.config
+D:\диск Д\VBA тренировки\StreamText\StreamText\bin\Debug\StreamText.exe
+D:\диск Д\VBA тренировки\StreamText\StreamText\bin\Debug\StreamText.pdb
+D:\диск Д\VBA тренировки\StreamText\StreamText\bin\Debug\StreamText.xml
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.vbprojAssemblyReference.cache
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.Form1.resources
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.Resources.resources
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.vbproj.GenerateResource.cache
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.vbproj.CoreCompileInputs.cache
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.exe
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.xml
+D:\диск Д\VBA тренировки\StreamText\StreamText\obj\Debug\StreamText.pdb

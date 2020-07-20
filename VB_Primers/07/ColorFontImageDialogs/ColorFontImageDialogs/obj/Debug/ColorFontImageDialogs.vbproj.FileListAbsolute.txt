@@ -1,0 +1,34 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.Form1.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.Resources.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.exe
+C:\Users\Mike\Desktop\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.xml
+C:\Users\Mike\Desktop\Projects\7-Extending the interface\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\bin\Debug\ColorFontImageDialogs.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.vbprojResolveAssemblyReference.cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\ColorFontImageDialogs\ColorFontImageDialogs\obj\Debug\ColorFontImageDialogs.pdb

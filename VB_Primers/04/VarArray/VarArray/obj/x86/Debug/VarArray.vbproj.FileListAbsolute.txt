@@ -1,0 +1,23 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\bin\Debug\VarArray.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\bin\Debug\VarArray.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\bin\Debug\VarArray.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\VarArray.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\VarArray.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\VarArray.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\VarArray.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\VarArray\obj\x86\Debug\VarArray.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\VarArray\VarArray\obj\x86\Debug\VarArray.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\VarArray\VarArray\obj\x86\Debug\VarArray.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\VarArray\VarArray\obj\x86\Debug\VarArray.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\bin\Debug\VarArray.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\bin\Debug\VarArray.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\bin\Debug\VarArray.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\obj\x86\Debug\VarArray.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\obj\x86\Debug\VarArray.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\obj\x86\Debug\VarArray.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\obj\x86\Debug\VarArray.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\obj\x86\Debug\VarArray.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarArray\VarArray\obj\x86\Debug\VarArray.pdb

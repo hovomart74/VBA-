@@ -1,0 +1,17 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\bin\Debug\CallMethods.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\bin\Debug\CallMethods.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\bin\Debug\CallMethods.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\CallMethods.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\CallMethods.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\CallMethods.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\CallMethods.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CallMethods\obj\x86\Debug\CallMethods.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\CallMethods\CallMethods\obj\x86\Debug\CallMethods.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\CallMethods\CallMethods\obj\x86\Debug\CallMethods.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\CallMethods\CallMethods\obj\x86\Debug\CallMethods.pdb
+C:\Users\Mike\Desktop\Projects\4-Learning the language\CallMethods\CallMethods\obj\x86\Debug\CallMethods.exe
+C:\Users\Mike\Desktop\Projects\4-Learning the language\CallMethods\CallMethods\obj\x86\Debug\CallMethods.xml
+C:\Users\Mike\Desktop\Projects\4-Learning the language\CallMethods\CallMethods\obj\x86\Debug\CallMethods.pdb

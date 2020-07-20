@@ -1,0 +1,23 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\ForNextLoop.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\ForNextLoop.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\bin\Debug\ForNextLoop.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\bin\Debug\ForNextLoop.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\bin\Debug\ForNextLoop.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\ForNextLoop.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\ForNextLoop.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ForNextLoop\obj\x86\Debug\ForNextLoop.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\bin\Debug\ForNextLoop.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\bin\Debug\ForNextLoop.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\bin\Debug\ForNextLoop.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\ForNextLoop\ForNextLoop\obj\x86\Debug\ForNextLoop.pdb

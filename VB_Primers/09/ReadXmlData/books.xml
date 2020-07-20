@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<shelf>
+
+	<book>
+		<isbn>978-5-699-79117-0</isbn>
+		<title>Программирование на C для начинающих</title>
+		<author>Майк МакГрат</author>
+		<class>Программирование</class>
+	</book>
+
+	<book>
+		<isbn>978-5-699-85743-2</isbn>
+		<title>Программирование на Java для начинающих</title>
+		<author>Майк МакГрат</author>
+		<class>Программирование</class>
+	</book>
+
+	<book>
+		<isbn>978-5-699-81406-0</isbn>
+		<title>Программирование на Python для начинающих</title>
+		<author>Майк МакГрат</author>
+		<class>Программирование</class>
+	</book>
+
+	<book>
+		<isbn>978-5-699-81145-8</isbn>
+		<title>Создание приложений на Android для начинающих</title>
+		<author>Майк МакГрат</author>
+		<class>Программирование</class>
+	</book>
+
+	<book>
+		<isbn>978-5-9775-3745-2</isbn>
+		<title>Искусство легального, анонимного и безопасного доступа к ресурсам Интернета</title>
+		<author>Михаил Райтман</author>
+		<class>Компьютерная безопасность</class>
+	</book>
+
+
+</shelf>

@@ -1,0 +1,23 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\bin\Debug\VarScope.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\bin\Debug\VarScope.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\bin\Debug\VarScope.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\VarScope.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\VarScope.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\VarScope.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\VarScope.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\VarScope\obj\x86\Debug\VarScope.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\VarScope\VarScope\obj\x86\Debug\VarScope.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\VarScope\VarScope\obj\x86\Debug\VarScope.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\VarScope\VarScope\obj\x86\Debug\VarScope.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\bin\Debug\VarScope.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\bin\Debug\VarScope.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\bin\Debug\VarScope.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\obj\x86\Debug\VarScope.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\obj\x86\Debug\VarScope.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\obj\x86\Debug\VarScope.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\obj\x86\Debug\VarScope.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\obj\x86\Debug\VarScope.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\VarScope\VarScope\obj\x86\Debug\VarScope.pdb

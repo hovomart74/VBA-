@@ -1,0 +1,31 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\bin\Debug\StreamText.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\bin\Debug\StreamText.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\bin\Debug\StreamText.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\obj\Debug\StreamText.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\obj\Debug\StreamText.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\obj\Debug\StreamText.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\obj\Debug\StreamText.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\obj\Debug\StreamText.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\StreamText\obj\Debug\StreamText.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\obj\Debug\StreamText.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\obj\Debug\StreamText.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\obj\Debug\StreamText.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\bin\Debug\StreamText.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\bin\Debug\StreamText.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\bin\Debug\StreamText.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\obj\Debug\StreamText.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\obj\Debug\StreamText.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\StreamText\StreamText\obj\Debug\StreamText.vbproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\StreamText.exe
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\StreamText.xml
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\StreamText.pdb
+C:\Users\Mike\Desktop\StreamText\StreamText\bin\Debug\StreamText.exe
+C:\Users\Mike\Desktop\StreamText\StreamText\bin\Debug\StreamText.pdb
+C:\Users\Mike\Desktop\StreamText\StreamText\bin\Debug\StreamText.xml
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\StreamText.Form1.resources
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\StreamText.Resources.resources
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\StreamText\StreamText\obj\Debug\GenerateResource.write.1.tlog

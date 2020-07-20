@@ -1,0 +1,31 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\bin\Debug\MultiMediaPlayer.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\bin\Debug\MultiMediaPlayer.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\bin\Debug\MultiMediaPlayer.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\bin\Debug\MultiMediaPlayer.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\bin\Debug\MultiMediaPlayer.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\bin\Debug\MultiMediaPlayer.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.vbprojResolveAssemblyReference.cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.vbproj.ResolveComReference.cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\MultiMediaPlayer\MultiMediaPlayer\obj\x86\Debug\MultiMediaPlayer.pdb

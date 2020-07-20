@@ -1,0 +1,13 @@
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\bin\Debug\EXEL первые шаги.exe.config
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\bin\Debug\EXEL первые шаги.exe
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\bin\Debug\EXEL первые шаги.pdb
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\bin\Debug\EXEL первые шаги.xml
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL первые шаги.vbprojAssemblyReference.cache
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL первые шаги.vbproj.ResolveComReference.cache
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL_первые_шаги.Form1.resources
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL_первые_шаги.Resources.resources
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL первые шаги.vbproj.GenerateResource.cache
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL первые шаги.vbproj.CoreCompileInputs.cache
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL первые шаги.exe
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL первые шаги.xml
+D:\диск Д\VBA тренировки\EXEL первые шаги\EXEL первые шаги\obj\Debug\EXEL первые шаги.pdb

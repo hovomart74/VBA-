@@ -1,0 +1,31 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\bin\Debug\CatchErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\bin\Debug\CatchErrors.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\bin\Debug\CatchErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\obj\Debug\CatchErrors.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\obj\Debug\CatchErrors.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\obj\Debug\CatchErrors.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\obj\Debug\CatchErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\obj\Debug\CatchErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\CatchErrors\obj\Debug\CatchErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\bin\Debug\CatchErrors.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\bin\Debug\CatchErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\bin\Debug\CatchErrors.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.vbproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.pdb
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\bin\Debug\CatchErrors.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\bin\Debug\CatchErrors.pdb
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\bin\Debug\CatchErrors.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.Form1.resources
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\CatchErrors.Resources.resources
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\CatchErrors\CatchErrors\obj\Debug\GenerateResource.write.1.tlog

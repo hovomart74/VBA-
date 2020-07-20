@@ -1,0 +1,1 @@
+https://docs.microsoft.com/ru-ru/dotnet/visual-basic/reference/language-specification/lexical-grammar

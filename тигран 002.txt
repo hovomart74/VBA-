@@ -1,0 +1,149 @@
+Public Class form1
+    Dim list As List(Of Lotto)
+    Dim BindingSource1 As New BindingSource()
+    Private Sub Clear()
+        Label1.Text = "..."
+        Label2.Text = "..."
+        Label3.Text = "..."
+        Label4.Text = "..."
+        Label5.Text = "..."
+        Label6.Text = "..."
+        PickBtn.Enabled = True
+        ResetBtn.Enabled = False
+    End Sub
+
+    Private Sub form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        list = New List(Of Lotto)
+        BindingSource1.DataSource = list
+
+        DataGridView1.DataSource = BindingSource1
+        Clear()
+        Randomize()
+    End Sub
+
+    Private Sub ResetBtn_Click(sender As Object, e As EventArgs) Handles ResetBtn.Click
+        Clear()
+        PickBtn.Focus()
+    End Sub
+
+    Private Sub PickBtn_Click(sender As Object, e As EventArgs) Handles PickBtn.Click
+        Dim nums(50) As Integer
+
+        For i = 1 To 49
+            nums(i) = i
+        Next
+
+        Dim r, temp As Integer
+        ' перемешиваем все элементы массива
+
+        For x As Integer = 1 To 49
+            r = Int(49 * Rnd()) + 1
+            temp = nums(x)
+            nums(x) = nums(r)
+            nums(r) = temp
+        Next
+
+        ' Создадим новый массив где будем хранить отсортированные сгенерированные числа
+        Dim sortednums(6) As Integer
+        For i = 1 To 6
+            sortednums(i) = nums(i)
+        Next
+        ' Отсортируем.
+        Array.Sort(sortednums)
+
+        Label1.Text = If(sortednums(1) < 10, sortednums(1) & "", sortednums(1))
+        Label2.Text = If(sortednums(2) < 10, sortednums(2) & "", sortednums(2))
+        Label3.Text = If(sortednums(3) < 10, sortednums(3) & "", sortednums(3))
+        Label4.Text = If(sortednums(4) < 10, sortednums(4) & "", sortednums(4))
+        Label5.Text = If(sortednums(5) < 10, sortednums(5) & "", sortednums(5))
+        Label6.Text = If(sortednums(6) < 10, sortednums(6) & "", sortednums(6))
+
+
+        list.Insert(0, New Lotto(sortednums))
+        BindingSource1.ResetBindings(True)
+
+
+
+
+        ListBox1.Items.Insert(0,
+                           String.Format("{0,-6} | {1,-6} | {2,-6} | {3,-6} | {4,-6} | {5,-6}",
+                           Label1.Text,
+                           Label2.Text,
+                           Label3.Text,
+                           Label4.Text,
+                           Label5.Text,
+                           Label6.Text)
+                           )
+        PickBtn.Enabled = False
+        ResetBtn.Enabled = True
+        ResetBtn.Focus()
+
+    End Sub
+
+    Private Sub TextBox1_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox1.KeyPress
+
+        If e.KeyChar = ChrW(Keys.Enter) Then
+
+            TextBox2.Focus()
+
+        End If
+    End Sub
+    Private Sub TextBox2_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox2.KeyPress
+
+        If e.KeyChar = ChrW(Keys.Enter) Then
+
+            TextBox1.Focus()
+
+        End If
+    End Sub
+
+End Class
+
+Public Class Lotto
+
+    Private _arr As Array
+
+    Public Sub New(arr As Array)
+        _arr = arr
+    End Sub
+
+    Private _n1 As String
+    Public Property n1() As String
+        Get
+            Return _arr(0)
+        End Get
+        Set(ByVal value As String)
+            _arr(0) = value
+        End Set
+    End Property
+
+    Private _n2 As String
+    Public Property n2() As String
+        Get
+            Return _arr(1)
+        End Get
+        Set(ByVal value As String)
+            _arr(1) = value
+        End Set
+    End Property
+    Private _n3 As String
+    Public Property n3() As String
+        Get
+            Return _arr(2)
+        End Get
+        Set(ByVal value As String)
+            _arr(2) = value
+        End Set
+    End Property
+    Private _n4 As String
+    Public Property n4() As String
+        Get
+            Return _arr(3)
+        End Get
+        Set(ByVal value As String)
+            _arr(3) = value
+        End Set
+    End Property
+
+
+End Class

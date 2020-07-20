@@ -1,0 +1,43 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\bin\Debug\RuntimeErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\bin\Debug\RuntimeErrors.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\bin\Debug\RuntimeErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\obj\Debug\RuntimeErrors.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\obj\Debug\RuntimeErrors.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\obj\Debug\RuntimeErrors.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\obj\Debug\RuntimeErrors.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\obj\Debug\RuntimeErrors.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\RuntimeErrors\obj\Debug\RuntimeErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.vbproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.pdb
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.pdb
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.Form1.resources
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.Resources.resources
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.exe
+C:\Users\Mike\Desktop\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.xml
+C:\Users\Mike\Desktop\Projects\6-Solving problems\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\bin\Debug\RuntimeErrors.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\RuntimeErrors\RuntimeErrors\obj\Debug\RuntimeErrors.pdb

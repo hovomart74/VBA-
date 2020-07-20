@@ -1,0 +1,24 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\bin\Debug\OpenSavePrintDialogs.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\bin\Debug\OpenSavePrintDialogs.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\bin\Debug\OpenSavePrintDialogs.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\bin\Debug\OpenSavePrintDialogs.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\bin\Debug\OpenSavePrintDialogs.pdb
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\bin\Debug\OpenSavePrintDialogs.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.Form1.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.Resources.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.exe
+C:\Users\Mike\Desktop\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.xml
+C:\Users\Mike\Desktop\Projects\7-Extending the interface\OpenSavePrintDialogs\OpenSavePrintDialogs\obj\Debug\OpenSavePrintDialogs.pdb

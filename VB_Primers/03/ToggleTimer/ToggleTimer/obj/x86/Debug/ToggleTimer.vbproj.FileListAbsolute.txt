@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\bin\Debug\ToggleTimer.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\bin\Debug\ToggleTimer.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\bin\Debug\ToggleTimer.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\ToggleTimer.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\ToggleTimer.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\ToggleTimer.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\ToggleTimer.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ToggleTimer\obj\x86\Debug\ToggleTimer.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.pdb
+C:\Users\Mike\Desktop\Projects\3-Using controls\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.exe
+C:\Users\Mike\Desktop\Projects\3-Using controls\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.xml
+C:\Users\Mike\Desktop\Projects\3-Using controls\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\bin\Debug\ToggleTimer.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\bin\Debug\ToggleTimer.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\bin\Debug\ToggleTimer.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\ToggleTimer\ToggleTimer\obj\x86\Debug\ToggleTimer.pdb

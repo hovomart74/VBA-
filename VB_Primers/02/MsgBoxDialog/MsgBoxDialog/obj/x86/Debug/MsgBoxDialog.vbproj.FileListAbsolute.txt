@@ -1,0 +1,23 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\bin\Debug\MsgBoxDialog.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\bin\Debug\MsgBoxDialog.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\bin\Debug\MsgBoxDialog.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\bin\Debug\MsgBoxDialog.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\bin\Debug\MsgBoxDialog.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\bin\Debug\MsgBoxDialog.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\MsgBoxDialog\MsgBoxDialog\obj\x86\Debug\MsgBoxDialog.pdb

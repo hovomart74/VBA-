@@ -1,0 +1,33 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.pdb
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.exe
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.xml
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.pdb
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.exe
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.pdb
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.xml
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.Form1.resources
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.Resources.resources
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\ReadXmlData\ReadXmlData\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.exe
+C:\Users\Mike\Desktop\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.xml
+C:\Users\Mike\Desktop\Projects\9-Harnessing data\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\bin\Debug\ReadXmlData.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadXmlData\ReadXmlData\obj\Debug\ReadXmlData.pdb

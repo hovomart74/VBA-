@@ -1,0 +1,25 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\bin\Debug\Breakpoints.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\bin\Debug\Breakpoints.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\bin\Debug\Breakpoints.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\obj\Debug\Breakpoints.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\obj\Debug\Breakpoints.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\obj\Debug\Breakpoints.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\obj\Debug\Breakpoints.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\obj\Debug\Breakpoints.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Breakpoints\obj\Debug\Breakpoints.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\Breakpoints\Breakpoints\obj\Debug\Breakpoints.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\Breakpoints\Breakpoints\obj\Debug\Breakpoints.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\6-Solving problems\Breakpoints\Breakpoints\obj\Debug\Breakpoints.pdb
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\Breakpoints\Breakpoints\obj\Debug\Breakpoints.exe
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\Breakpoints\Breakpoints\obj\Debug\Breakpoints.xml
+C:\Users\Mike\Desktop\Projects-ed2\6-Solving problems\Breakpoints\Breakpoints\obj\Debug\Breakpoints.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\obj\Debug\Breakpoints.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\obj\Debug\Breakpoints.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\obj\Debug\Breakpoints.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\obj\Debug\Breakpoints.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\obj\Debug\Breakpoints.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\obj\Debug\Breakpoints.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\bin\Debug\Breakpoints.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\bin\Debug\Breakpoints.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\06\Breakpoints\Breakpoints\bin\Debug\Breakpoints.xml

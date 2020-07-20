@@ -1,0 +1,45 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\bin\Debug\Lotto.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\bin\Debug\Lotto.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\bin\Debug\Lotto.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\Lotto.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\Lotto.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\Lotto.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\Lotto.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Lotto\obj\x86\Debug\Lotto.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\Lotto.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\Lotto.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\Lotto.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Debug\Lotto.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Debug\Lotto.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Debug\Lotto.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\Lotto.Form1.resources
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\Lotto.Resources.resources
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Debug\Lotto.exe.manifest
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Debug\Lotto.application
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\Lotto.exe.manifest
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Debug\Lotto.application
+C:\Users\Mike\Desktop\Projects\5-Building an application\Lotto\Lotto\obj\x86\Debug\Lotto.exe
+C:\Users\Mike\Desktop\Projects\5-Building an application\Lotto\Lotto\obj\x86\Debug\Lotto.xml
+C:\Users\Mike\Desktop\Projects\5-Building an application\Lotto\Lotto\obj\x86\Debug\Lotto.pdb
+C:\Users\Mike\Desktop\VB 3ed\Projects\Projects\Projects\5-Building an application\Lotto\Lotto\obj\x86\Debug\Lotto.exe
+C:\Users\Mike\Desktop\VB 3ed\Projects\Projects\Projects\5-Building an application\Lotto\Lotto\obj\x86\Debug\Lotto.xml
+C:\Users\Mike\Desktop\VB 3ed\Projects\Projects\Projects\5-Building an application\Lotto\Lotto\obj\x86\Debug\Lotto.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\bin\Debug\Lotto.exe.manifest
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\bin\Debug\Lotto.application
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\bin\Debug\Lotto.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\bin\Debug\Lotto.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\bin\Debug\Lotto.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.exe.manifest
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\05\Lotto\Lotto\obj\x86\Debug\Lotto.application

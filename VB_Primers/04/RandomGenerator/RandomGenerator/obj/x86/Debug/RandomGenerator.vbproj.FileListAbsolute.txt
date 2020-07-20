@@ -1,0 +1,17 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\bin\Debug\RandomGenerator.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\bin\Debug\RandomGenerator.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\bin\Debug\RandomGenerator.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\RandomGenerator.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\RandomGenerator.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\RandomGenerator.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\RandomGenerator.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\RandomGenerator\obj\x86\Debug\RandomGenerator.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\RandomGenerator\RandomGenerator\obj\x86\Debug\RandomGenerator.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\RandomGenerator\RandomGenerator\obj\x86\Debug\RandomGenerator.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\RandomGenerator\RandomGenerator\obj\x86\Debug\RandomGenerator.pdb
+C:\Users\Mike\Desktop\Projects\4-Learning the language\RandomGenerator\RandomGenerator\obj\x86\Debug\RandomGenerator.exe
+C:\Users\Mike\Desktop\Projects\4-Learning the language\RandomGenerator\RandomGenerator\obj\x86\Debug\RandomGenerator.xml
+C:\Users\Mike\Desktop\Projects\4-Learning the language\RandomGenerator\RandomGenerator\obj\x86\Debug\RandomGenerator.pdb

@@ -1,0 +1,24 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\bin\Debug\DialogInput.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\bin\Debug\DialogInput.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\bin\Debug\DialogInput.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\DialogInput.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\DialogInput.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\DialogInput.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\DialogInput.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\DialogInput\obj\x86\Debug\DialogInput.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\DialogInput\DialogInput\obj\x86\Debug\DialogInput.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\DialogInput\DialogInput\obj\x86\Debug\DialogInput.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\DialogInput\DialogInput\obj\x86\Debug\DialogInput.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\bin\Debug\DialogInput.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\bin\Debug\DialogInput.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\bin\Debug\DialogInput.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\obj\x86\Debug\DialogInput.vbprojResolveAssemblyReference.cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\obj\x86\Debug\DialogInput.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\obj\x86\Debug\DialogInput.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\obj\x86\Debug\DialogInput.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\obj\x86\Debug\DialogInput.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\obj\x86\Debug\DialogInput.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\02\DialogInput\DialogInput\obj\x86\Debug\DialogInput.pdb

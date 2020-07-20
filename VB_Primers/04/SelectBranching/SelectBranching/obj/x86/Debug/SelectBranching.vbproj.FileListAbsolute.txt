@@ -1,0 +1,14 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\SelectBranching.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\SelectBranching.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\bin\Debug\SelectBranching.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\bin\Debug\SelectBranching.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\bin\Debug\SelectBranching.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\SelectBranching.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\SelectBranching.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\SelectBranching\obj\x86\Debug\SelectBranching.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\SelectBranching\SelectBranching\obj\x86\Debug\SelectBranching.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\SelectBranching\SelectBranching\obj\x86\Debug\SelectBranching.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\SelectBranching\SelectBranching\obj\x86\Debug\SelectBranching.pdb

@@ -1,0 +1,43 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\bin\Debug\ReadRssFeed.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\bin\Debug\ReadRssFeed.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\bin\Debug\ReadRssFeed.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\obj\Debug\ReadRssFeed.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\obj\Debug\ReadRssFeed.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\obj\Debug\ReadRssFeed.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\obj\Debug\ReadRssFeed.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\obj\Debug\ReadRssFeed.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\ReadRssFeed\obj\Debug\ReadRssFeed.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.vbproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.exe
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.xml
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.pdb
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.exe
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.pdb
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.xml
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.Form1.resources
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.Resources.resources
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\ReadRssFeed\ReadRssFeed\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\Desktop\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.exe
+C:\Users\Mike\Desktop\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.xml
+C:\Users\Mike\Desktop\Projects\9-Harnessing data\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\bin\Debug\ReadRssFeed.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\ReadRssFeed\ReadRssFeed\obj\Debug\ReadRssFeed.pdb

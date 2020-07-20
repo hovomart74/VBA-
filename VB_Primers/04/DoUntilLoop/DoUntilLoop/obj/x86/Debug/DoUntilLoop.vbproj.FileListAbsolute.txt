@@ -1,0 +1,23 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\DoUntilLoop.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\DoUntilLoop.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\bin\Debug\DoUntilLoop.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\bin\Debug\DoUntilLoop.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\bin\Debug\DoUntilLoop.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\DoUntilLoop.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\DoUntilLoop.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\DoUntilLoop\obj\x86\Debug\DoUntilLoop.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\bin\Debug\DoUntilLoop.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\bin\Debug\DoUntilLoop.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\bin\Debug\DoUntilLoop.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\04\DoUntilLoop\DoUntilLoop\obj\x86\Debug\DoUntilLoop.pdb

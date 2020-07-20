@@ -1,0 +1,40 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\bin\Debug\XmlDataSet.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\bin\Debug\XmlDataSet.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\bin\Debug\XmlDataSet.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\obj\Debug\XmlDataSet.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\obj\Debug\XmlDataSet.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\obj\Debug\XmlDataSet.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\obj\Debug\XmlDataSet.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\obj\Debug\XmlDataSet.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\XmlDataSet\obj\Debug\XmlDataSet.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.vbproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.exe
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.xml
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.pdb
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.exe
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.pdb
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.xml
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.Form1.resources
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.Resources.resources
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\XmlDataSet\XmlDataSet\obj\Debug\GenerateResource.write.1.tlog
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\bin\Debug\XmlDataSet.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\09\XmlDataSet\XmlDataSet\obj\Debug\XmlDataSet.pdb

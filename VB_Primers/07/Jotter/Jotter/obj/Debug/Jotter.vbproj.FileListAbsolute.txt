@@ -1,0 +1,36 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\obj\Debug\Jotter.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\obj\Debug\Jotter.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\obj\Debug\Jotter.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\bin\Debug\Jotter.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\bin\Debug\Jotter.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\bin\Debug\Jotter.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\obj\Debug\Jotter.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\obj\Debug\Jotter.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Jotter\obj\Debug\Jotter.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\bin\Debug\Jotter.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\bin\Debug\Jotter.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\bin\Debug\Jotter.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.AboutBox1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.SplashScreen1.resources
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.exe
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.xml
+C:\Users\Mike\Desktop\Projects-ed2\7-Extending the interface\Jotter\Jotter\obj\Debug\Jotter.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\bin\Debug\Jotter.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\bin\Debug\Jotter.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\bin\Debug\Jotter.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.AboutBox1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.SplashScreen1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\07\Jotter\Jotter\obj\Debug\Jotter.pdb

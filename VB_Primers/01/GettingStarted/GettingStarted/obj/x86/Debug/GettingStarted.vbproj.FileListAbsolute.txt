@@ -1,0 +1,25 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\bin\Debug\GettingStarted.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\GettingStarted.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\GettingStarted.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\GettingStarted.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\GettingStarted.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\GettingStarted\obj\x86\Debug\GettingStarted.Form1.resources
+C:\Users\Mike\documents\visual studio 2010\Projects\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\bin\Debug\GettingStarted.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\obj\x86\Debug\GettingStarted.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.CodeAnalysisLog.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\01\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.lastcodeanalysissucceeded

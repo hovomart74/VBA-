@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\bin\Debug\PizzaPicker.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\bin\Debug\PizzaPicker.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\bin\Debug\PizzaPicker.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\PizzaPicker.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\PizzaPicker.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\PizzaPicker.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\PizzaPicker.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\PizzaPicker\obj\x86\Debug\PizzaPicker.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.pdb
+C:\Users\Mike\Desktop\Projects\3-Using controls\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.exe
+C:\Users\Mike\Desktop\Projects\3-Using controls\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.xml
+C:\Users\Mike\Desktop\Projects\3-Using controls\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\bin\Debug\PizzaPicker.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\bin\Debug\PizzaPicker.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\bin\Debug\PizzaPicker.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\PizzaPicker\PizzaPicker\obj\x86\Debug\PizzaPicker.pdb

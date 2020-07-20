@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\bin\Debug\BookPicker.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\bin\Debug\BookPicker.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\bin\Debug\BookPicker.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\BookPicker.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\BookPicker.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\BookPicker.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\BookPicker.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\BookPicker\obj\x86\Debug\BookPicker.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\BookPicker\BookPicker\obj\x86\Debug\BookPicker.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\BookPicker\BookPicker\obj\x86\Debug\BookPicker.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\BookPicker\BookPicker\obj\x86\Debug\BookPicker.pdb
+C:\Users\Mike\Desktop\Projects\3-Using controls\BookPicker\BookPicker\obj\x86\Debug\BookPicker.exe
+C:\Users\Mike\Desktop\Projects\3-Using controls\BookPicker\BookPicker\obj\x86\Debug\BookPicker.xml
+C:\Users\Mike\Desktop\Projects\3-Using controls\BookPicker\BookPicker\obj\x86\Debug\BookPicker.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\bin\Debug\BookPicker.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\bin\Debug\BookPicker.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\bin\Debug\BookPicker.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\obj\x86\Debug\BookPicker.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\obj\x86\Debug\BookPicker.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\obj\x86\Debug\BookPicker.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\obj\x86\Debug\BookPicker.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\obj\x86\Debug\BookPicker.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\BookPicker\BookPicker\obj\x86\Debug\BookPicker.pdb

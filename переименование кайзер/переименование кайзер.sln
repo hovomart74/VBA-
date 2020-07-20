@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "переименование кайзер", "переименование кайзер\переименование кайзер.vbproj", "{57344877-E91E-4960-83E8-2EF698AB0558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57344877-E91E-4960-83E8-2EF698AB0558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57344877-E91E-4960-83E8-2EF698AB0558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57344877-E91E-4960-83E8-2EF698AB0558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57344877-E91E-4960-83E8-2EF698AB0558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639E99A5-4648-4747-8A38-3476C0C5A895}
+	EndGlobalSection
+EndGlobal

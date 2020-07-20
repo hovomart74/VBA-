@@ -1,0 +1,32 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\obj\Debug\ReadCells.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\obj\Debug\ReadCells.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\obj\Debug\ReadCells.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\bin\Debug\ReadCells.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\bin\Debug\ReadCells.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\bin\Debug\ReadCells.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\obj\Debug\ReadCells.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\obj\Debug\ReadCells.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\9-Harnessing data\ReadCells\ReadCells\obj\Debug\ReadCells.pdb
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\ReadCells.exe
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\ReadCells.xml
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\ReadCells.pdb
+C:\Users\Mike\Desktop\ReadCells\ReadCells\bin\Debug\ReadCells.exe
+C:\Users\Mike\Desktop\ReadCells\ReadCells\bin\Debug\ReadCells.pdb
+C:\Users\Mike\Desktop\ReadCells\ReadCells\bin\Debug\ReadCells.xml
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\ReadCells.Form1.resources
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\ReadCells.Resources.resources
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\Desktop\ReadCells\ReadCells\obj\Debug\GenerateResource.write.1.tlog
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\bin\Debug\ReadCells.exe
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\bin\Debug\ReadCells.pdb
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\bin\Debug\ReadCells.xml
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.vbprojAssemblyReference.cache
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.Form1.resources
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.Resources.resources
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.vbproj.GenerateResource.cache
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.vbproj.CoreCompileInputs.cache
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.exe
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.xml
+D:\диск Д\000 прайсы\000 мой сайт\0000000000 всякости для сайта\VBA для чайников\VB_Primers\09\ReadCells\ReadCells\obj\Debug\ReadCells.pdb

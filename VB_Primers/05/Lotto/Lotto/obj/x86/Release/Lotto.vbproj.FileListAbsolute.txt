@@ -1,0 +1,15 @@
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Release\Lotto.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Release\Lotto.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Release\Lotto.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\Lotto.Form1.resources
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\Lotto.Resources.resources
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\Lotto.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\Lotto.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\Lotto.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Release\Lotto.exe.manifest
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\bin\Release\Lotto.application
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\Lotto.exe.manifest
+C:\Users\Mike\documents\visual studio 2010\Projects\Lotto\Lotto\obj\x86\Release\Lotto.application

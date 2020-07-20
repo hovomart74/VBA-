@@ -1,0 +1,26 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\bin\Debug\GraphicLabels.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\bin\Debug\GraphicLabels.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\bin\Debug\GraphicLabels.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\GraphicLabels.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\GraphicLabels.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\GraphicLabels.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\GraphicLabels.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\GraphicLabels\obj\x86\Debug\GraphicLabels.pdb
+C:\Users\Mike\documents\visual studio 2010\Projects\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.exe
+C:\Users\Mike\documents\visual studio 2010\Projects\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.xml
+C:\Users\Mike\documents\visual studio 2010\Projects\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.pdb
+C:\Users\Mike\Desktop\Projects\3-Using controls\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.exe
+C:\Users\Mike\Desktop\Projects\3-Using controls\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.xml
+C:\Users\Mike\Desktop\Projects\3-Using controls\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\bin\Debug\GraphicLabels.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\bin\Debug\GraphicLabels.pdb
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\bin\Debug\GraphicLabels.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.Form1.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.Resources.resources
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.vbproj.GenerateResource.Cache
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.exe
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.xml
+D:\Работа\Эксмо\Visual Basic in easy steps, ОБНОВЛЕНИЕ\VB_examples\03\GraphicLabels\GraphicLabels\obj\x86\Debug\GraphicLabels.pdb

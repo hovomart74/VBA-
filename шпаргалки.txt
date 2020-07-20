@@ -1,0 +1,82 @@
+﻿
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+добавляем звуковой сигнал
+'по окончании всех работ открывается сообщение
+   My.Computer.Audio.PlaySystemSound(System.Media.SystemSounds.Exclamation)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+удаление лишнего из массива 
+
+Sub Main()
+        Dim MasVrem() As String
+        Dim MasImena() = {"tigran", "qwertiy", "papa", "paptigran"}
+        MasVrem = Filter(MasImena, "tigran", False, CompareMethod.Text)
+        Dim MasPuti() As String = Array.ConvertAll(MasImena, Function(str) Replace(str, "ti", "catalog/002"))
+
+    End Sub
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Функции обработки строк
+http://informatic.ugatu.ac.ru/lib/VB_6.0/lr6/th4_1.htm
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+хорошие подсказки в учебнике
+Заключение
+стр. 114 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+следим за переменными
+локальные
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SendKeys
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+if (e.KeyCode == Keys.Enter)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+integerTiv.ToString()
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+'лучшая замена If
+Select Case (Val(Guess.Text))
+            Case Is > num
+                Msg.Text = Guess.Text & " много" & "
+" & Msg.Text
+            Case Is < num
+                Msg.Text = Guess.Text & " мало" & "
+" & Msg.Text
+            Case Is = num
+                Msg.Text = Guess.Text & " правильно! " &
+                    "
+Я загадал новое число 
+Отгадай! "
+                GetNumber()
+				
+			Case Else
+                    MasNovPrais(i, 7) = "Noname"
+				
+        End Select
+		
+		
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+'перевод фокуса в следующий TextBox 
+Private Sub TextBox1_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox1.KeyPress
+
+        If e.KeyChar = ChrW(Keys.Enter) Then
+
+            TextBox2.Focus()
+
+        End If
+    End Sub
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+AcceptButton = Button1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles TextBox2.TextChanged
+        AcceptButton = Button1
+    End Sub
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        TextBox1.Focus()
+    End Sub

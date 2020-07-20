@@ -1,0 +1,111 @@
+Public Class Form1
+    'тут обозначены общедоступные переменные 
+    'чтобы не было длиннющих названий в кодах
+    'переменная для TextBox1.Text
+    Dim FromNum As Integer
+    'переменная для TextBox2.Text
+    Dim ToNum As Integer
+    'тут устанавливаем верхний предел для ToNum
+    Dim VerxPredel As Integer = 15
+
+    'массивы для миавор и таснавор на армянском
+    Dim Znakov1() As String = {"", "մեկ", "երկու", "երեք", "չօրս", "հինգ", "վեց", "յոթ", "ութ", "իննը", "զրո"}
+    Dim Znakov2() As String = {"", "տասնը", "քսան", "երեսուն", "քարասուն", "հիսուն", "վաթսուն",
+        "յոթանասուն", "ութանասուն", "իննսուն", "տաս"}
+
+    'подпрограмма, которая считает по армянски
+    Private Sub ARM(Tiv As String)
+        Dim i As Integer
+        'Tiv нужен в формате String
+        'считаем количество символов в числе и
+        'создаём массив, с равным количеством членов
+        Dim KolichZnak(Len(Tiv))
+        'запускаем цикл чтобы заполнить массив KolichZnak
+        'создаём цикл, равный количеству членов массива KolichZnak
+
+        'проверка работоспасобности
+
+
+        ListBox1.Items.Add(KolichZnak(i))
+
+        If Tiv = VerxPredel Then
+            'сообщение по умолчанию, для слишком больших чисел
+            ListBox1.Items.Add("Մինչև " & Tiv + 1 & " դեռ հաշվել չգիտեմ ;)")
+        End If
+
+    End Sub
+
+    Private Sub ZapolnMassiv()
+        Dim i As Integer
+
+    End Sub
+
+    'цикл для перевода на разные языки
+    Private Sub Czikl()
+        For i = FromNum To ToNum
+            'проверяем какой язык выбран
+            Select Case ComboBox1.SelectedItem
+                Case Is = "Հայերեն"
+                    'если выбрали Հայերեն
+                    'отправляем числа по очереди подпрограмме ARM
+                    ARM(i)
+            End Select
+        Next
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        'принуждаем выбрать язык то есть, проверяем выбрали ли язык
+        Select Case ComboBox1.SelectedItem
+            'если не выбрали ничего,
+            Case Is = ""
+                'ругаем в MsgBox
+                MsgBox("Ընտրի'ր լեզուն, որով հաշվելու եմ", 49, "Բարկացա'")
+        End Select
+
+        'добавляем переменные, чтобы избавиться от длиннющих названий в кодах
+        FromNum = Val(TextBox1.Text)
+        ToNum = Val(TextBox2.Text)
+
+        'защита от дурака
+        'в случае, если хотят принудить считать в обратном порядке то
+        'меняем местами FromNum и ToNum
+        If FromNum > ToNum Then
+            Dim vrem As Integer
+            vrem = FromNum
+            FromNum = ToNum
+            ToNum = vrem
+        End If
+
+        'решаем проблему с большими числами
+        'если число больше, чем готовые формулы переводов
+        'устанавливаем ToNum = максимально желаемое число,
+        'чтобы цикол не гонять в пустую
+        If ToNum > VerxPredel Then
+            ToNum = VerxPredel
+        End If
+
+        'очищяем ListBox1.Items
+        ListBox1.Items.Clear()
+
+        'решаем проблему с отрицательными числами
+        If FromNum < 0 Then
+            FromNum = 0
+            'запускаем подпрограмму ругательств по поводу отрицательных чисел
+            OtricArm()
+        End If
+
+        'запускаем цикл и отправяем FromNum для начала счётчика
+        Czikl()
+    End Sub
+
+    'при вводе отрицательных чисел
+    Private Sub OtricArm()
+        Select Case ComboBox1.SelectedItem
+            'ответ на армянском
+            Case Is = "Հայերեն"
+                ListBox1.Items.Add("Բացասական թվեր չե'մ հաշվելու,")
+                ListBox1.Items.Add("ի'նքդ կարող ես ամեն թվից առաջ ասել <<մինուս>>")
+        End Select
+    End Sub
+
+End Class

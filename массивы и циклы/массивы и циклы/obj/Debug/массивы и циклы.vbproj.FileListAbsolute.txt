@@ -1,0 +1,24 @@
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.exe.config
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.exe
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.pdb
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.xml
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.vbprojAssemblyReference.cache
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы_и_циклы.Form1.resources
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы_и_циклы.Resources.resources
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.vbproj.GenerateResource.cache
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.vbproj.CoreCompileInputs.cache
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.exe
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.xml
+C:\Users\Овик\source\repos\массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.pdb
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.exe.config
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.exe
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.pdb
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\bin\Debug\массивы и циклы.xml
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.vbprojAssemblyReference.cache
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы_и_циклы.Form1.resources
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы_и_циклы.Resources.resources
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.vbproj.GenerateResource.cache
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.vbproj.CoreCompileInputs.cache
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.exe
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.xml
+D:\диск Д\VBA тренировки\000000 массивы и циклы\массивы и циклы\obj\Debug\массивы и циклы.pdb
